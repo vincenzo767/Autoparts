@@ -1,0 +1,1 @@
+org.springframework.boot.env.EnvironmentPostProcessor=ph.roviautoparts.config.DotEnvLoader
